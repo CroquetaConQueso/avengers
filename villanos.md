@@ -7,8 +7,13 @@
 * Rolien Harte
 * Kaudric
 
-### Councilors
+## Councilors
 * Vexila
 * Theor
 * Arthur
 * Ethel
+
+### Enforcer and Archon
+
+* Krenn
+* Algosia
