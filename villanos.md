@@ -17,3 +17,7 @@
 
 * Krenn
 * Algosia
+
+### Slayers
+
+### Invokers
