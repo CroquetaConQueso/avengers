@@ -14,10 +14,11 @@
 * Ethel
 
 ### Enforcer and Archon
-
 * Krenn
 * Algosia
 
 ### Slayers
+* Gor
+* Grillak
 
 ### Invokers
