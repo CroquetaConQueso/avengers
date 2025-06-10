@@ -1,2 +1,3 @@
 # Misiones
-*Investigar a HoC
+* Investigar a HoC
+* Comprar cafe
