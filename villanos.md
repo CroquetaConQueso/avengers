@@ -5,7 +5,6 @@
 
 ## High Councilors
 * Rolien Harte
-* Kaudric
 
 ## Councilors
 * Vexila
